@@ -1,0 +1,15 @@
+
+for i in range(1,101):
+    if i % 3 ==0:
+        print(f'{i} fizz ')
+        if i % 5 ==0:
+            print(f'{i} fizzbuzz ')
+       
+    elif i % 5 ==0:
+        print(f'{i} buzz ')
+       
+        if i % 3==0 :    
+            print(f'{i} fizz buzz')
+
+    else:
+         print(f'{i}')

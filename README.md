@@ -1,5 +1,9 @@
 # 7420 Web Applications Development
 
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Mastering Markdown (for creating this file)
+
+
+
 Homework - Part 1 - Part 7
 
 https://docs.djangoproject.com/en/3.0/intro/tutorial01/
@@ -12,6 +16,8 @@ Resources to Learn Python:
 free:
 
 https://scrimba.com/g/gpython
+
+## Can someone add descriptions or thumbnails of these videos?
 
 https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
 

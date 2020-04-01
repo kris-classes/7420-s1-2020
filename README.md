@@ -33,3 +33,17 @@ paid:
 https://www.udemy.com/course/complete-python-bootcamp/
 
 https://www.udemy.com/course/python-django-dev-to-deployment/
+
+
+* [AbdulAhmadzai](https://github.com/AbdulAhmadzai) - Building: TBD
+* [anil-geev](https://github.com/anil-geev) - Building: TBD
+* [beer-inder](https://github.com/beer-inder) - Building: TBD
+* [fieldea](https://github.com/fieldea) - Building: TBD
+* [Jakeybaby](https://github.com/Jakeybaby) - Building: TBD
+* [Jero327](https://github.com/Jero327) - Building: TBD
+* [lakshaysethi](https://github.com/lakshaysethi) - Building: TBD
+* [manasvi](https://github.com/manasvityagi) - Building: TBD
+* [shuang1101](https://github.com/shuang1101) - Building: TBD
+* [tarantej](https://github.com/tarantej) - Building: TBD
+* [TeresaZhu08](https://github.com/TeresaZhu) - Building: TBD
+* [wandanli](https://github.com/wandanli) - Building: TBD

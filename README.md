@@ -35,7 +35,8 @@ https://www.udemy.com/course/complete-python-bootcamp/
 https://www.udemy.com/course/python-django-dev-to-deployment/
 
 
-* [AbdulAhmadzai](https://github.com/AbdulAhmadzai) - Building: TBD
+* [AbdulAhmadzai](https://github.com/AbdulAhmadzai) - Building: simple facebook
+
 * [anil-geev](https://github.com/anil-geev) - Building: TBD
 * [beer-inder](https://github.com/beer-inder) - Building: TBD
 * [fieldea](https://github.com/fieldea) - Building: TBD
@@ -44,6 +45,6 @@ https://www.udemy.com/course/python-django-dev-to-deployment/
 * [lakshaysethi](https://github.com/lakshaysethi) - Building: TBD
 * [manasvi](https://github.com/manasvityagi) - Building: TBD
 * [shuang1101](https://github.com/shuang1101) - Building: TBD
-* [tarantej](https://github.com/tarantej) - Building: I am building an Event Booking application which will also take in details of delegates attending the event at the time of registration
+* [tarantej](https://github.com/tarantej) - Building: TBD
 * [TeresaZhu08](https://github.com/TeresaZhu) - Building: TBD
 * [wandanli](https://github.com/wandanli) - Building: TBD

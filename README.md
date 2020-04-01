@@ -44,6 +44,6 @@ https://www.udemy.com/course/python-django-dev-to-deployment/
 * [lakshaysethi](https://github.com/lakshaysethi) - Building: TBD
 * [manasvi](https://github.com/manasvityagi) - Building: TBD
 * [shuang1101](https://github.com/shuang1101) - Building: TBD
-* [tarantej](https://github.com/tarantej) - Building: TBD
+* [tarantej](https://github.com/tarantej) - Building: I am building an Event Booking application which will also take in details of delegates attending the event at the time of registration
 * [TeresaZhu08](https://github.com/TeresaZhu) - Building: TBD
 * [wandanli](https://github.com/wandanli) - Building: TBD

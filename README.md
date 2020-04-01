@@ -47,4 +47,4 @@ https://www.udemy.com/course/python-django-dev-to-deployment/
 * [shuang1101](https://github.com/shuang1101) - Building: TBD
 * [tarantej](https://github.com/tarantej) - Building: TBD
 * [TeresaZhu08](https://github.com/TeresaZhu) - Building: TBD
-* [wandanli](https://github.com/wandanli) - Building: TBD
+* [wandanli](https://github.com/wandanli) - Building: Record All The Wonderful Moments

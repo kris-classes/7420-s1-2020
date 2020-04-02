@@ -48,3 +48,13 @@ https://www.udemy.com/course/python-django-dev-to-deployment/
 * [tarantej](https://github.com/tarantej) - Building: TBD
 * [TeresaZhu08](https://github.com/TeresaZhu) - Building: TBD
 * [wandanli](https://github.com/wandanli) - Building: Record All The Wonderful Moments
+
+
+## Creating a database in PostgreSQL
+
+```sql
+CREATE USER myusername WITH PASSWORD 'some_password123';
+CREATE DATABASE mydatabase;
+GRANT ALL PRIVILEGES ON DATABASE mydatabase TO myusername;
+ALTER USER myusername CREATEDB;
+```

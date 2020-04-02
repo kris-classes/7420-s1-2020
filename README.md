@@ -58,3 +58,9 @@ CREATE DATABASE mydatabase;
 GRANT ALL PRIVILEGES ON DATABASE mydatabase TO myusername;
 ALTER USER myusername CREATEDB;
 ```
+
+
+### If you have problems installing psycopg2 on MacOS, the library for PostgreSQL, try this command.
+```bash
+LDFLAGS="-I/usr/local/opt/openssl/include -L/usr/local/opt/openssl/lib"
+```

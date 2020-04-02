@@ -62,5 +62,5 @@ ALTER USER myusername CREATEDB;
 
 ### If you have problems installing psycopg2 on MacOS, the library for PostgreSQL, try this command.
 ```bash
-LDFLAGS="-I/usr/local/opt/openssl/include -L/usr/local/opt/openssl/lib"
+LDFLAGS="-I/usr/local/opt/openssl/include -L/usr/local/opt/openssl/lib" pip install --upgrade psycopg2
 ```

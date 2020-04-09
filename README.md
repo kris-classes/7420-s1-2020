@@ -35,19 +35,18 @@ https://www.udemy.com/course/complete-python-bootcamp/
 https://www.udemy.com/course/python-django-dev-to-deployment/
 
 
-* [AbdulAhmadzai](https://github.com/AbdulAhmadzai) - Building: simple facebook
-
-* [anil-geev](https://github.com/anil-geev) - Building: TBD
-* [beer-inder](https://github.com/beer-inder) - Building: TBD
-* [fieldea](https://github.com/fieldea) - Building: TBD
-* [Jakeybaby](https://github.com/Jakeybaby) - Building: TBD
-* [Jero327](https://github.com/Jero327) - Building: TBD
-* [lakshaysethi](https://github.com/lakshaysethi) - Building: TBD
-* [manasvi](https://github.com/manasvityagi) - Building: TBD
-* [shuang1101](https://github.com/shuang1101) - Building: TBD
-* [tarantej](https://github.com/tarantej) - Building: TBD
-* [TeresaZhu08](https://github.com/TeresaZhu) - Building: TBD
-* [wandanli](https://github.com/wandanli) - Building: Record All The Wonderful Moments
+* [AbdulAhmadzai](https://github.com/AbdulAhmadzai/WebApplicationAssignment1) - Building: simple facebook
+* [anil-geev](https://github.com/anil-geev/Assignment1_7420) - Building: TBD
+* [beer-inder](https://github.com/beer-inder/Assignment1_7420_WebApp) - Building: TBD
+* [fieldea](https://github.com/fieldea/WebAppDevAssignment1) - Building: TBD
+* [Jakeybaby](https://github.com/Jakeybaby/Assignemnt17420) - Building: TBD
+* [Jero327](https://github.com/Jero327/7420-Assessment) - Building: TBD
+* [lakshaysethi](https://github.com/lakshaysethi/Assignment-1-7420-ls) - Building: TBD
+* [manasvi](https://github.com/Manasvityagi/webapp_7420) - Building: TBD
+* [shuang1101](https://github.com/shuang1101/WebAppAssignment1) - Building: TBD
+* [tarantej](https://github.com/tarantej/assignment1_7420) - Building: TBD
+* [TeresaZhu08](https://github.com/TeresaZhu) No GitHub repository yet. - Building: TBD
+* [wandanli](https://github.com/wandanli/Web_App_Dev_Assignment1) - Building: Record All The Wonderful Moments
 
 
 ## Creating a database in PostgreSQL

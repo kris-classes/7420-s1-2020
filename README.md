@@ -39,7 +39,7 @@ https://www.udemy.com/course/python-django-dev-to-deployment/
 * [anil-geev](https://github.com/anil-geev/Assignment1_7420) - Building: TBD
 * [beer-inder](https://github.com/beer-inder/Assignment1_7420_WebApp) - Building: TBD
 * [fieldea](https://github.com/fieldea/WebAppDevAssignment1) - Building: TBD
-* [Jakeybaby](https://github.com/Jakeybaby/Assignemnt17420) - Building: TBD
+* [Jakeybaby](https://github.com/Jakeybaby/Assignemnt17420) - Building: simple Instagram
 * [Jero327](https://github.com/Jero327/7420-Assessment) - Building: TBD
 * [lakshaysethi](https://github.com/lakshaysethi/Assignment-1-7420-ls) - Building: TBD
 * [manasvi](https://github.com/Manasvityagi/webapp_7420) - Building: TBD

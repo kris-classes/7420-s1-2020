@@ -42,7 +42,7 @@ https://www.udemy.com/course/python-django-dev-to-deployment/
 * [Jakeybaby](https://github.com/Jakeybaby/Assignemnt17420) - Building: simple Instagram
 * [Jero327](https://github.com/Jero327/7420-Assessment) - Building: TBD
 * [lakshaysethi](https://github.com/lakshaysethi/Assignment-1-7420-ls) - Building: TBD
-* [manasvi](https://github.com/Manasvityagi/webapp_7420) - Building: TBD
+* [manasvi](https://github.com/Manasvityagi/webapp_7420) - Building: A Dashboard for IoT Devices
 * [shuang1101](https://github.com/shuang1101/WebAppAssignment1) - Building: TBD
 * [tarantej](https://github.com/tarantej/assignment1_7420) - Building: TBD
 * [TeresaZhu08](https://github.com/TeresaZhu) No GitHub repository yet. - Building: TBD

@@ -61,7 +61,7 @@ ALTER USER myusername CREATEDB;
 ## Hosting your Django app
 there are several options to host your django app
 1. host on your pc/laptop/dev server- use [ngrok.io](https://ngrok.io) - follow instructions after signing up
-2. use heroku.com ![heroku sjango docs](https://devcenter.heroku.com/articles/deploying-python)
+2. use heroku.com [heroku django docs](https://devcenter.heroku.com/articles/deploying-python)
 
 ### If you have problems installing psycopg2 on MacOS, the library for PostgreSQL, try this command.
 ```bash

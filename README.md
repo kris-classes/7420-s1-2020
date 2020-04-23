@@ -35,7 +35,7 @@ https://www.udemy.com/course/complete-python-bootcamp/
 https://www.udemy.com/course/python-django-dev-to-deployment/
 
 
-* [AbdulAhmadzai](https://github.com/AbdulAhmadzai/WebApplicationAssignment1) - Building: simple facebook
+* [AbdulAhmadzai](https://github.com/AbdulAhmadzai/WebApplicationAssignment1) - Building: building an app which is similar to face but different as well in my app you can create user and login and then you can create post and you can delete and update that post you can add friends.  so far this 
 * [anil-geev](https://github.com/anil-geev/Assignment1_7420) - Building: TBD
 * [beer-inder](https://github.com/beer-inder/Assignment1_7420_WebApp) - Building: TBD
 * [fieldea](https://github.com/fieldea/WADA1) - Building: TBD

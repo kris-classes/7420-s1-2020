@@ -40,7 +40,7 @@ https://www.udemy.com/course/python-django-dev-to-deployment/
 * [beer-inder](https://github.com/beer-inder/Assignment1_7420_WebApp) - Building: TBD
 * [fieldea](https://github.com/fieldea/WADA1) - Building: TBD
 * [Jakeybaby](https://github.com/Jakeybaby/Assignemnt17420) - Building: simple Instagram
-* [Jero327](https://github.com/Jero327/7420-Assessment) - Building: TBD
+* [Jero327](https://github.com/Jero327/7420-Assessment) - Building: C2C platform provides the Postal services by individral, which committed to solving fast, small personal international and domestic express delivery needs.
 * [lakshaysethi](https://github.com/lakshaysethi/Assignment-1-7420-ls) - Building: Instagram clone with almost all features and more 
 * [manasvi](https://github.com/Manasvityagi/webapp_7420) - Building: A Dashboard for IoT Devices
 * [shuang1101](https://github.com/shuang1101/WebAppAssignment1) - Building: TBD

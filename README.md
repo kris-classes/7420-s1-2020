@@ -41,7 +41,7 @@ https://www.udemy.com/course/python-django-dev-to-deployment/
 * [fieldea](https://github.com/fieldea/WADA1) - Building: TBD
 * [Jakeybaby](https://github.com/Jakeybaby/Assignemnt17420) - Building: simple Instagram
 * [Jero327](https://github.com/Jero327/7420-Assessment) - Building: TBD
-* [lakshaysethi](https://github.com/lakshaysethi/Assignment-1-7420-ls) - Building: TBD
+* [lakshaysethi](https://github.com/lakshaysethi/Assignment-1-7420-ls) - Building: Instagram clone with almost all features and more 
 * [manasvi](https://github.com/Manasvityagi/webapp_7420) - Building: A Dashboard for IoT Devices
 * [shuang1101](https://github.com/shuang1101/WebAppAssignment1) - Building: TBD
 * [tarantej](https://github.com/tarantej/assignment1_7420) - Building: TBD

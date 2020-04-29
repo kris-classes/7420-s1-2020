@@ -45,7 +45,7 @@ https://www.udemy.com/course/python-django-dev-to-deployment/
 * [manasvi](https://github.com/Manasvityagi/webapp_7420) - Building: A Dashboard for IoT Devices
 * [shuang1101](https://github.com/shuang1101/WebAppAssignment1) - Building: TBD
 * [tarantej](https://github.com/tarantej/assignment1_7420) - Building: TBD
-* [TeresaZhu08](https://github.com/TeresaZhu) No GitHub repository yet. - Building: TBD
+* [TeresaZhu08](https://github.com/TeresaZhu08/Ass1) - Building: TBD
 * [wandanli](https://github.com/wandanli/Web_App_Dev_Assignment1) - Building: Record All The Wonderful Moments
 
 

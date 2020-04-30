@@ -8,7 +8,7 @@ Homework - Part 1 - Part 7
 
 https://docs.djangoproject.com/en/3.0/intro/tutorial01/
 
-
+[Django Class-Based Views](https://ccbv.co.uk/)
 
 Resources to Learn Python:
 

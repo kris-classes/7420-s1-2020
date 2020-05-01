@@ -1,14 +1,30 @@
 # 7420 Web Applications Development
 
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Mastering Markdown (for creating this file)
+* [Github Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Mastering Markdown (for creating this file)
 
 
+* [Django Tutorial](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
+* [Customizing Django Authentication](https://docs.djangoproject.com/en/3.0/topics/auth/customizing/#substituting-a-custom-user-model)
 
-Homework - Part 1 - Part 7
+* [Django Class-Based Views](https://ccbv.co.uk/)
+* [Django Storages](https://django-storages.readthedocs.io/en/latest/index.html)
+* [Django REST Framework](https://www.django-rest-framework.org/)
+* [Django REST Framework Class-Based Views](http://www.cdrf.co/)
 
-https://docs.djangoproject.com/en/3.0/intro/tutorial01/
+* [AWS Console](https://console.aws.amazon.com/console/home)
+* [AWS Free Tier](https://aws.amazon.com/free/)
+* [AWS in Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
+* [SendGrid](https://sendgrid.com/)
+* [redis](https://redis.io)
+* [Docker](https://www.docker.com/)
 
-[Django Class-Based Views](https://ccbv.co.uk/)
+* [ReactJS](https://reactjs.org/)
+
+
+## Python Plotting/Visualization Libraries:
+* [Matplotlib](https://matplotlib.org/)
+* [Plotly](https://plotly.com/python/)
+* [Bokeh](https://bokeh.org/)
 
 Resources to Learn Python:
 

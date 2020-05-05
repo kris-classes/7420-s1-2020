@@ -1,7 +1,7 @@
 # 7420 Web Applications Development
 
 * [Github Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Mastering Markdown (for creating this file)
-* [alternative Markdown Syntax guide] (https://www.markdownguide.org/basic-syntax/) - Markdown Syntax guide
+* [alternative Markdown Syntax guide](https://www.markdownguide.org/basic-syntax/) - Markdown Syntax guide
 
 
 * [Django Tutorial](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)

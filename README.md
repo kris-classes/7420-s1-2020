@@ -53,7 +53,7 @@ https://www.udemy.com/course/python-django-dev-to-deployment/
 
 
 * [AbdulAhmadzai](https://github.com/AbdulAhmadzai/WebApplicationAssignment1) - Building: building an app which is similar to face but different as well in my app you can create user and login and then you can create post and you can delete and update that post you can add friends.  so far this 
-* [anil-geev](https://github.com/anil-geev/Assignment1_7420) - Building: TBD
+* [anil-geev](https://github.com/anil-geev/Assignment1_7420) - Building: A Restaurant review App with a list of restaurants, an account with a picture, username and location
 * [beer-inder](https://github.com/beer-inder/Assignment1_7420_WebApp) - Building: Kindergarten app
 * [fieldea](https://github.com/fieldea/WADA1) - Building: TBD
 * [Jakeybaby](https://github.com/Jakeybaby/Assignemnt17420) - Building: simple Instagram

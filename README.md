@@ -20,6 +20,7 @@
 * [Docker](https://www.docker.com/)
 
 * [ReactJS](https://reactjs.org/)
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 
 ## Python Plotting/Visualization Libraries:
